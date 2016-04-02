@@ -1,0 +1,13 @@
+# Site settings
+title: Intro to Website Creation
+email: jason@redconfetti.com
+description: > # this means to ignore newlines until "baseurl:"
+  This site is meant to provide the understanding needed to create
+  websites on the internet.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+facebook_username: redconfetti
+github_username:  redconfetti
+
+# Build settings
+markdown: kramdown
