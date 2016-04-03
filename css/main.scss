@@ -43,11 +43,25 @@ $on-laptop:        800px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
         "syntax-highlighting"
 ;
+
+.photo {
+	margin: 0 15px;
+	.attribute {
+		color: #ccc;
+		font-size: 12px;
+	}
+}
+
+.align-left {
+	float: left;
+}
+
+.align-right {
+	float: right;
+}

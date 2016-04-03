@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+There are many online tutorials and courses devoted to teaching people how to program in webpages using HTML, CSS,
+and Javascript. Before these can be useful a person must understand certain basic concepts, such as how to save an HTML file on a Windows computer, and how to manage folders and files.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This website is intended to bridge that gap, while also introducing users to advanced topics such as Git and Linux development and hosting platforms.
