@@ -8,7 +8,7 @@ categories: basics
 ## With Great Power Comes Greater Complexity
 
 <div class="photo align-left">
-  <img src="/images/posts/computers.png" alt="computers">
+  <img src="{{site.baseurl}}/images/posts/computers.png" alt="computers">
   <div class="attribute">
   	<a href="https://commons.wikimedia.org/wiki/File:Comp.png">Photo</a> by GevorgyanAnna
   	<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC SA</a>
@@ -40,7 +40,7 @@ If you think about all machines that have ever been created, they typically have
 ## The Von Neumann Architecture
 
 <div class="photo align-left">
-  <img src="/images/posts/eniac.jpg" width="300" alt="Class photo of the ENIAC">
+  <img src="{{site.baseurl}}/images/posts/eniac.jpg" width="300" alt="Class photo of the ENIAC">
 </div>
 
 The first digital computer was created in 1945, known as the [ENIAC](https://en.wikipedia.org/wiki/ENIAC) (Electronic Numerical Integrator And Computer). Much like the gun data computer mentioned above, it was designed to calculate information related to firing artillery. The ENIAC was 1000 times faster than previous electro-mechanical machines. 
@@ -48,7 +48,7 @@ The first digital computer was created in 1945, known as the [ENIAC](https://en.
 The mathematician and physicist [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) was working on the [hydrogen bomb](https://en.wikipedia.org/wiki/Hydrogen_bomb) when he heard about the ENIAC, and was the first to run a computational problem on the ENIAC related to the hydrogen bomb instead of for artillery firing data.
 
 <div class="photo align-right">
-  <img src="/images/posts/von-neumann-architecture.svg" width="300" alt="computers">
+  <img src="{{site.baseurl}}/images/posts/von-neumann-architecture.svg" width="300" alt="computers">
   <div class="attribute">
   	<a href="https://commons.wikimedia.org/wiki/File:Von_Neumann_Architecture.svg">Diagram</a> by Kapooht
   	<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC SA</a>

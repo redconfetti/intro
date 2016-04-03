@@ -3,7 +3,7 @@ title: Intro to Creating Websites
 email: jason@redconfetti.com
 description: > # this means to ignore newlines until "baseurl:"
   Providing an understanding of the concepts needed to create websites
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/intro" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 facebook_username: redconfetti
 github_username:  redconfetti
